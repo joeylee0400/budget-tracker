@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "expense-tracker",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "www", "-l", "3847", "--no-clipboard"],
+      "port": 3847
+    }
+  ]
+}
